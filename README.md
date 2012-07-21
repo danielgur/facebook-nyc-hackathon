@@ -1,3 +1,4 @@
 # FBump
+## Simply bump phones to add a friend to Facebook.
 
-This is where the code from the Facebook hackathon will live.
+The app will work for iOS.
