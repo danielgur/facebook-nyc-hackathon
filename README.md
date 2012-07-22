@@ -1,4 +1,4 @@
 # FBump
 ### Simply bump phones to add a friend to Facebook.
 
-The app will work for iOS.
+The app works for iOS and Android.
