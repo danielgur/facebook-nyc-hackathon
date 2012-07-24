@@ -7,11 +7,7 @@ This app won 3rd place at the Facebook NYC Summer 2012 hackathon :)
 
 ## Participants
 
-* Alan Wagner
-* Daniel Gur
+* [Alan Wagner](http://github.com/abw333)
+* [Daniel Gur](http://github.com/danielgur)
 * Jennifer Fang
-* Michelle Luo
-
-
-http://github.com/danielgur - automatic!
-[GitHub2](http://github.com)
+* [Michelle Luo](http://github.com/mluo)
